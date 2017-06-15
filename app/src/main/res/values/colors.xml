@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fee133</color>
+    <color name="colorPrimaryDark">#d0ad24</color>
+
+    <color name="colorListViewTextSeparator">#C0C0C0</color>
+    <color name="textInputPanelIcons">#808080</color>
+    <color name="textInputPanelBorder">#D3D3D3</color>
+
+    <color name="iconFavouriteDark">#A9A9A9</color>
+    <color name="iconFavouriteLight">#FFD700</color>
+
+</resources>

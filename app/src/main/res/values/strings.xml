@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Translator</string>
+
+    <string name="settings_tab">Settings</string>
+
+    <string name="recently_used">Recently used</string>
+    <string name="all_languages">All languages</string>
+    <string name="language_source">Source language</string>
+    <string name="language_target">Target language</string>
+
+    <string name="view_pager_history">History</string>
+    <string name="view_pager_favourites">Favourites</string>
+
+    <string name="delete_history_question">Are you sure you want to clear history?</string>
+    <string name="delete_favourites_question">Are you sure you want to clear favorites?</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_default">Sorry, the service is temporarily unavailable</string>
+    <string name="error_translation_direction">Sorry, the specified translation direction is not supported</string>
+    <string name="error_text_length">Sorry, the maximum allowed text size was exceeded (10,000 characters). Try reducing the length of the text</string>
+
+    <string name="error_internet_connection">Connection error</string>
+    <string name="error_check_internet">Check your Internet connection\nand try again</string>
+    <string name="error_button_try_again">TRY AGAIN</string>
+
+    <string name="yes">Yes</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint_enter_text">Enter text</string>
+    <string name="not_implemented">Not implemented</string>
+
+    <string name="history_empty">There are no translation\nin history</string>
+    <string name="favourites_empty">There are no translation\nin favourites</string>
+    <string name="switch1">Some</string>
+    <string name="switch2">Switchers</string>
+    <string name="switch3">Click-click</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
