@@ -9,3 +9,5 @@ Translator uses:
 * Leakcanary for memory leak detection
 * Retrofit2 for networking
 * Yandex API
+
+![translator.gif](https://github.com/aleksey-ho/translator-mvp/blob/master/translator.gif)
